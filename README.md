@@ -87,9 +87,6 @@ bash start_container.sh
 > [!NOTE]
 > The `turtlebot_ws` directory is shared between the host and container. In the result files inside of it might require sudo privileges to save any changes.
 
-> [!NOTE]
-> Dockerfile and script for running container are based on [Rafał Staszak's repository](https://github.com/RafalStaszak/NIMPRA_Docker/)
-
 ## 2. Running the simulation
 
 ### Override the params file
