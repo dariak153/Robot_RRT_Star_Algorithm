@@ -1,5 +1,5 @@
 # TurtleBot with RRT* path planning algorithm
-
+with @mmcza
 ![RRT_Star.gif](/Pictures/RRT_Star.gif)
 
 ## Table of Contents
