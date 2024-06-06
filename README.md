@@ -1,5 +1,6 @@
 # TurtleBot with RRT* path planning algorithm
-with @mmcza
+
+Project prepared with [@mmcza](https://www.github.com/mmcza).
 ![RRT_Star.gif](/Pictures/RRT_Star.gif)
 
 ## Table of Contents
